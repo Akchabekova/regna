@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?cktcyf');
+  src:  url('../fonts/icomoon.eot?cktcyf#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?cktcyf') format('truetype'),
+    url('../fonts/icomoon.woff?cktcyf') format('woff'),
+    url('../fonts/icomoon.svg?cktcyf#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bx-bar-chart-alt-2:before {
+  content: "\e900";
+}
+.icon-bx-briefcase:before {
+  content: "\e901";
+}
+.icon-bx-envelope:before {
+  content: "\e902";
+}
+.icon-bxl-facebook-circle:before {
+  content: "\e903";
+}
+.icon-bx-link:before {
+  content: "\e904";
+}
+.icon-bxl-instagram:before {
+  content: "\e905";
+}
+.icon-bx-list-check:before {
+  content: "\e906";
+}
+.icon-bxl-linkedin-square:before {
+  content: "\e907";
+}
+.icon-bxl-twitter:before {
+  content: "\e908";
+}
+.icon-bx-map:before {
+  content: "\e909";
+}
+.icon-bx-mobile-alt:before {
+  content: "\e90a";
+}
+.icon-bx-plus:before {
+  content: "\e90b";
+}
+.icon-bxs-binoculars:before {
+  content: "\e90c";
+}
+.icon-bx-sun:before {
+  content: "\e90d";
+}
+.icon-bxs-upvote:before {
+  content: "\e90e";
+}
+.icon-bx-window-alt:before {
+  content: "\e90f";
+}
