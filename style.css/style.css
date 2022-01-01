@@ -194,6 +194,7 @@ a {
 
 .facts {
     background-color: #eae6e6;
+    padding: 30px 0;
 }
 
 .section-title {
@@ -280,6 +281,12 @@ a {
     margin-bottom: 40px;
 
 }
+.services-inner:hover .icon{
+    background-color: white;
+    color: #2dc997;
+    border: 1px solid #2dc997;
+
+}
 
 .icon {
     position: absolute;
@@ -300,12 +307,6 @@ a {
 .icon span {
     color: white;
 
-}
-
-.icon:hover {
-    background-color: white;
-    color: #2dc997;
-    border: 1px solid #2dc997;
 }
 
 .icon-bx-briefcase:hover {
@@ -592,7 +593,9 @@ a {
     width: 25%;
     padding: 0 15px;
 }
-
+.team{
+    padding: 40px 0;
+}
 .team-pic {
     width: 100%;
     margin-bottom: 15px;
