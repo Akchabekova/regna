@@ -2,4 +2,68 @@
     .container{
         max-width: 720px;
     }
+    .hero-title{
+        font-size: 44px;
+    }
+    .hero-desc{
+        font-size: 21px;
+    }
+    .btn{
+        font-size: 17px;
+    }
+
+    .about-us-title{
+        font-size: 31px;
+        margin-bottom: 18px;
+
+    }
+    .about-us-news {
+        line-height: 21px;
+        margin-bottom: 22px;
+        font-size: 16px;
+    }
+    .about-icon{
+        width: 57px;
+        height: 57px;
+    }
+    .about-us-subtitle{
+        margin-left: 67px;
+        font-size: 19px;
+    }
+    .about-us-desc {
+        margin: 0px 0 30px 67px;
+        line-height: 22px;
+        font-size: 16px;
+    }
+
+    .section-title {
+        font-size: 31px;
+    }
+    .section-description {
+        margin-bottom: 31px;
+        font-size: 19px;
+    }
+    .facts-number{
+        font-size: 33px;
+    }
+    .facts-title{
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
