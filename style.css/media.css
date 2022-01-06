@@ -74,9 +74,52 @@
         width: 35px;
         height: 35px;
     }
+    .instagram-contact{
+        width: 35px;
+        height: 35px;
+    }
+    .linkedin-contact{
+        width: 35px;
+        height: 35px;
+    }
+    .footer-caption{
+        font-size: 17px;
+    }
+    .portfolio-all{
+        padding: 13px 16px 12px 16px;
+        font-size: 18px;
+    }
+    .portfolio-app{
+        padding: 13px 16px 12px 16px;
+        font-size: 18px;
+    }
+    .portfolio-card{
+        padding: 13px 16px 12px 16px;
+        font-size: 18px;
+    }
+    .portfolio-web{
+        padding: 13px 16px 12px 16px;
+        font-size: 18px;
+    }
+    .call-to-action-news {
+        font-size: 20px;
+    }
+    .call-to-action-btn {
+        font-size: 13px;
+        padding: 11px 19px;
+        margin: 62px 15px;
 
-
-
+    }
+    .call-to-action{
+        padding: 70px 0;
+    }
+    .services-subtitle {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    .services-desc{
+        font-size: 16px;
+    }
 
 
 
