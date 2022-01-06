@@ -120,9 +120,23 @@
     .services-desc{
         font-size: 16px;
     }
+    .icon{
+        width: 65px;
+        height: 65px
+    }
+    .icon-bx-briefcase{
+        padding-top: 11px;
+    }
+    .icon-bx-list-check {
+        padding: 10px 0 0 4px
+    }
+    .icon-bx-bar-chart-alt-2{
+        font-size: 29px;
+    }
 
-
-
+    .icon-bx-window-alt{
+        font-size: 32px;
+    }
 
 
 
