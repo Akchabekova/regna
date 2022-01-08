@@ -20,7 +20,7 @@ body {
 
 }
 
-.menu-item {
+.menu-item{
     color: white;
     margin-left: 20px;
     display: inline-block;
@@ -46,7 +46,11 @@ body {
 
 
 }
-
+.burger{
+    font-size: 30px;
+    color: white;
+    display: none;
+}
 .hero {
     background: rgba(0, 0, 0, 0.5) url(../images/hero-bg.jpg) no-repeat top center/cover;
     background-blend-mode: darken;
@@ -968,7 +972,7 @@ footer {
     position: fixed;
     right: 15px;
     bottom: 15px;
-    z-index: 996;
+    z-index: 1;
     transition: all 0.4s;
     cursor: pointer;
 
