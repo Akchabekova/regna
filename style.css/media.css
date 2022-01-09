@@ -107,7 +107,7 @@
     .call-to-action-btn {
         font-size: 13px;
         padding: 11px 19px;
-        margin: 62px 15px;
+        margin: 62px -32px;
 
     }
     .call-to-action{
@@ -167,6 +167,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        transition: 0.6s;
 
     }
     .menu.show{
